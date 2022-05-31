@@ -13,3 +13,6 @@ Le matériel nécessaire au projet :
   - lampe
   - cable
 
+## Branchement
+
+![Schéma](https://user-images.githubusercontent.com/51033332/171291561-d4c876ea-29a6-4f62-a09e-1d9597b50ea8.png)
