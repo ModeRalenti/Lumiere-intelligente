@@ -2,7 +2,7 @@
 
 ##Projet universitaire de 1ère année de l'UE Communication sans fils
 
-Le projet a pour but d'allumer une lampe lorsque la lumière naturelle est faible et qu'il y a un passe.
+Le projet a pour but d'allumer une lampe lorsque la lumière naturelle est faible et qu'il y a un passage.
 
 Le matériel nécessaire au projet :
   - carte arduino UNO R3
