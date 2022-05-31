@@ -1,6 +1,6 @@
-# Lumiere-intelligente
+# Lumière intelligente
 
-Projet universitaire de 1ère année de l'UE Communication sans fils
+##Projet universitaire de 1ère année de l'UE Communication sans fils
 
 Le projet a pour but d'allumer une lampe lorsque la lumière naturelle est faible et qu'il y a un passe.
 
